@@ -14,6 +14,7 @@ The fields are as follows:
 7. full_text: body of the comment
 8. parent: parent comment id, -1 if parent is post
 9. postid: id of reddit post
+
 10, 12, 14, 16. are weak labels: 1 - some part of comment is labeled in Affcon dataset and 
                   0 - comment is not labeled at all in Affcon dataset
                   
