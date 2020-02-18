@@ -1,6 +1,8 @@
 # reddit-affective-content
 Reddit post and comment data for analysis of disclosure and supportiveness discourse.
 
+The dataset is downloaded using [PRAW](https://praw.readthedocs.io/en/latest/).
+
 forest.csv has all the comments information for the posts from AffCon-2020 dataset. 
 The fields are as follows:
 1. commentid: id of comment
