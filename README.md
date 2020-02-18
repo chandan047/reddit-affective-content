@@ -15,10 +15,7 @@ The fields are as follows:
 8. parent: parent comment id, -1 if parent is post
 9. postid: id of reddit post
 
-10, 12, 14, 16. are weak labels: 1 - some part of comment is labeled in Affcon dataset and 
-                  0 - comment is not labeled at all in Affcon dataset
-                  
-11, 13, 15, 17. are sentence ids previously labeled in Affcon-2020
+Columns 10, 12, 14, 16, 18, 20. are weak labels: 0/1 - some part of comment is labeled in Affcon dataset and -1 - comment is not labeled at all in Affcon dataset. Columns 11, 13, 15, 17, 19, 21. are ids of sentences previously labeled in Affcon-2020
 
 
 tree_info.csv has comment tree information.
