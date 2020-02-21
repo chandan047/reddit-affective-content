@@ -25,7 +25,7 @@ The fields are as follows:
 3. length: length of the comment tree
 
 
-Number of partially labeled posts 3582. Mean length of partially labeled posts 23.64. Stddev length of partially labeled posts 44.08.
+Number of partially labeled posts 3582. Mean length of partially labeled posts 23.64. Stddev length of partially labeled posts is 44.08. This is in reference to the Affcon 2020 dataset.
 ![Plot](/plots/1.png)
 
 Number of partially labeled posts with at-least 5 length 2763. Mean length of partially labeled posts with at-least 5 length 29.67. Stddev length of partially labeled posts with at-least 5 length 48.58.
