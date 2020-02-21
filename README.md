@@ -23,3 +23,33 @@ The fields are as follows:
 1. treeid: id of comment tree
 2. max_depth: maximum depth of conversation
 3. length: length of the comment tree
+
+
+Number of partially labeled posts 3582
+Mean length of partially labeled posts 23.64
+Stddev length of partially labeled posts 44.08
+![GitHub Logo](/plots/1.png)
+
+
+Number of partially labeled posts with at-least 5 length 2763
+Mean length of partially labeled posts with at-least 5 length 29.67
+Stddev length of partially labeled posts with at-least 5 length 48.58
+
+
+Number of partially labeled posts with at-least 10 length 1950
+Mean length of partially labeled posts with at-least 10 length 38.77
+Stddev length of partially labeled posts with at-least 10 length 55.33
+
+
+
+Mean length of all posts 17.04
+Stddev length of partially labeled posts 35.02
+
+
+Mean score of partially labeled posts 163.42
+Stddev score of partially labeled posts 784.97
+
+
+
+Mean score of all posts 110.67
+Stddev score of all posts 632.60
