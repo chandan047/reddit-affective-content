@@ -26,19 +26,30 @@ The fields are as follows:
 
 
 Number of partially labeled posts 3582. Mean length of partially labeled posts 23.64. Stddev length of partially labeled posts is 44.08. This is in reference to the Affcon 2020 dataset.
+
 ![Plot](/plots/1.png)
 
+
 Number of partially labeled posts with at-least 5 length 2763. Mean length of partially labeled posts with at-least 5 length 29.67. Stddev length of partially labeled posts with at-least 5 length 48.58.
+
 ![Plot](/plots/2.png)
 
+
 Number of partially labeled posts with at-least 10 length 1950. Mean length of partially labeled posts with at-least 10 length 38.77. Stddev length of partially labeled posts with at-least 10 length 55.33.
+
 ![Plot](/plots/3.png)
 
+
 Mean length of all posts 17.04. Stddev length of partially labeled posts 35.02.
+
 ![Plot](/plots/4.png)
 
+
 Mean score of partially labeled posts 163.42. Stddev score of partially labeled posts 784.97.
+
 ![Plot](/plots/5.png)
 
+
 Mean score of all posts 110.67. Stddev score of all posts 632.60.
+
 ![Plot](/plots/6.png)
